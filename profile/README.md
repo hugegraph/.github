@@ -13,3 +13,6 @@ All repositories urls:
 3. [hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) (graph computing system)
 4. [hugegraph-commons](https://github.com/apache/incubator-hugegraph-commons) (include common & rpc module)
 5. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include doc & website code)
+
+
+Welcome to contribute to `Apache HugeGraph` as always ~ 😄
