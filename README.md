@@ -1,12 +1,11 @@
 # Profile of hugegraph
 
-Hi, everyone
+Hi everyone,
 
-Our repository has transferred to `Apache Foundation`, now all repository here will be archived soon.
+Our repositories has transferred to `Apache Software Foundation`, all repositories here will be archived soon.
 
-Here 
+And the following are the new addresses of repositories:
 
-And here are links of other repositories:
 0. [hugegraph](https://github.com/apache/incubator-hugegraph) (graph server)
 1. [hugegraph-toolchain](https://github.com/apache/incubator-hugegraph-toolchain) (include loader/dashboard/tool/client)
 2. [hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) (graph computing system)
