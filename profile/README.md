@@ -2,7 +2,7 @@
 
 Our repository([HugeGraph](https://github.com/apache/incubator-hugegraph)) has donated to `Apache Foundation`, so all repository here will be archived soon
 
-Please move to visit them (like https://github.com/apache/incubator-hugegraph)
+Please move to visit them (like https://github.com/apache/incubator-hugegraph) & the official website (https://hugegraph.apache.org/)
 
 ## Links
 
@@ -16,3 +16,5 @@ All repositories urls:
 
 
 Welcome to contribute to `Apache HugeGraph` as always ~ 😄
+
+<img width="1902" alt="image" src="https://user-images.githubusercontent.com/17706099/167809257-0b039a8e-1290-4a6c-b6b5-89b09c4bcbc6.png">
