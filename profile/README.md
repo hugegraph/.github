@@ -1,6 +1,6 @@
 ## Hey, Everyone 👋
 
-Our repository([HugeGraph](https://github.com/apache/incubator-hugegraph)) has donated to `Apache Foundation`, so all repository here will be archived soon
+Our repository([HugeGraph](https://github.com/apache/hugegraph)) has donated to `Apache Foundation`, so all repository here will be archived soon
 
 Please move to visit them (like https://github.com/apache/incubator-hugegraph) & the official website (https://hugegraph.apache.org/)
 
@@ -9,10 +9,10 @@ Please move to visit them (like https://github.com/apache/incubator-hugegraph) &
 All repositories urls:
 
 1. [hugegraph](https://github.com/apache/incubator-hugegraph) (graph server)
-2. [hugegraph-toolchain](https://github.com/apache/incubator-hugegraph-toolchain) (include loader/dashboard/tool/client)
+2. [hugegraph-toolchain](https://github.com/apache/incubator-hugegraph-toolchain) (include **loader/dashboard/tool/client**)
 3. [hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) (graph computing system)
 4. [hugegraph-commons](https://github.com/apache/incubator-hugegraph-commons) (include common & rpc module)
-5. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include doc & website code)
+5. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include **doc** & website code)
 
 
 Welcome to contribute to `Apache HugeGraph` as always ~ 😄
