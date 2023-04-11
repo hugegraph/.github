@@ -1,6 +1,6 @@
 ## Hey, Everyone 👋
 
-Our repository([HugeGraph](https://github.com/apache/hugegraph)) has donated to `Apache Foundation`, so all repository here will be archived soon
+Our repository([HugeGraph](https://github.com/apache/hugegraph)) has donated to `Apache Software Foundation(ASF)`, so all repository here will be archived soon
 
 Please move to visit them (like https://github.com/apache/hugegraph) & the official website (https://hugegraph.apache.org/)
 
