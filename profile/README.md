@@ -14,6 +14,25 @@ All repositories urls:
 4. [hugegraph-commons](https://github.com/apache/incubator-hugegraph-commons) (include common & rpc module)
 5. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include **doc** & website code)
 
+## Maven Dependencies
+
+You could use import the dependencies in `maven` like this:
+
+```xml
+  <!-- Note: use the latest release version in maven repo, here is just an example -->
+  <dependency>
+       <groupId>org.apache.hugegraph</groupId>
+       <artifactId>hugegraph-client</artifactId>
+       <version>1.2.0</version>
+  </dependency>
+  
+  <dependency>
+       <groupId>org.apache.hugegraph</groupId>
+       <artifactId>hugegraph-loader</artifactId>
+       <version>1.2.0</version>
+  </dependency>
+```
+---
 
 Welcome to contribute to `Apache HugeGraph` as always ~ 😄
 
