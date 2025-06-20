@@ -12,8 +12,7 @@ All repositories urls:
 2. [hugegraph-toolchain](https://github.com/apache/incubator-hugegraph-toolchain) (include **loader/dashboard/tool/client**)
 3. [hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai) (include **LLM/Graph RAG/GNN/Python Client**)
 4. [hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) (graph computing system)
-5. [hugegraph-commons](https://github.com/apache/incubator-hugegraph-commons) (include common & rpc module)
-6. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include **doc** & website code)
+5. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include **doc** & website code)
 
 ## Maven Dependencies
 
