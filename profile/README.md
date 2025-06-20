@@ -10,9 +10,10 @@ All repositories urls:
 
 1. [hugegraph](https://github.com/apache/incubator-hugegraph) (graph server)
 2. [hugegraph-toolchain](https://github.com/apache/incubator-hugegraph-toolchain) (include **loader/dashboard/tool/client**)
-3. [hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) (graph computing system)
-4. [hugegraph-commons](https://github.com/apache/incubator-hugegraph-commons) (include common & rpc module)
-5. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include **doc** & website code)
+3. [hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai) (include **LLM/Graph RAG/GNN/Python Client**)
+4. [hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) (graph computing system)
+5. [hugegraph-commons](https://github.com/apache/incubator-hugegraph-commons) (include common & rpc module)
+6. [hugegraph-website](https://github.com/apache/incubator-hugegraph-doc) (include **doc** & website code)
 
 ## Maven Dependencies
 
@@ -23,13 +24,13 @@ You could use import the dependencies in `maven` like this:
   <dependency>
        <groupId>org.apache.hugegraph</groupId>
        <artifactId>hugegraph-client</artifactId>
-       <version>1.2.0</version>
+       <version>1.5.0</version>
   </dependency>
   
   <dependency>
        <groupId>org.apache.hugegraph</groupId>
        <artifactId>hugegraph-loader</artifactId>
-       <version>1.2.0</version>
+       <version>1.5.0</version>
   </dependency>
 ```
 ---
